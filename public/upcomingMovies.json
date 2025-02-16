@@ -1,0 +1,22 @@
+{
+  "upcomingMovies": [
+    {
+      "_id": "5ab126b6f36d2879268f2943",
+      "name": "Avengers",
+      "language": "English, Hindi, Tamil",
+      "type": "Action",
+      "Director": "Russo brothers, Joe Russo, Anthony Russo",
+      "Duration": "3h 1m",
+      "imageUrl": "https://www.themoviedb.org/t/p/original/qMxAmzGQO722q0UlssCOPhrXmvX.jpg"
+    },
+    {
+      "_id": "5ab4e66b0c1d2b27846c6407",
+      "name": "Black Panther",
+      "language": "English, Hindi",
+      "Director": "Ryan Coogler",
+      "Duration": "2h 14m",
+      "type": "Action Adventure Fantasy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+    }
+  ]
+}

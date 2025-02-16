@@ -1,0 +1,16 @@
+.slider-container {
+  width: 80vw; /* 80% of the viewport width */
+  max-width: 400px;
+  margin: 0 auto; /* Centers the slider horizontally */
+  position: relative;
+  top: 80px; /* Adjust this based on the height of your navbar */
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+
+.carousel-img {
+  width: 100%;
+  height: 80vh; /* 80% of the viewport height */
+  object-fit: contain; /* Ensures images maintain aspect ratio */
+  border-radius: 10px;
+}

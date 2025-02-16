@@ -1,0 +1,48 @@
+.recommended-movies {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.movie-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  padding-bottom: 0%;
+}
+
+.movie-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 180px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.movie-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.book-btn {
+  background: #ff4c4c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+
+  margin-top: auto;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.book-btn:hover {
+  background: #cc0000;
+}

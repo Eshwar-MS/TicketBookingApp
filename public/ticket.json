@@ -1,0 +1,60 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "movie": "Thor",
+      "date": "2025-02-10",
+      "availableShowTimings": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"],
+      "totalSeats": 150,
+      "bookedSeats": 45
+    },
+    {
+      "id": 2,
+      "movie": "Wonder Women",
+      "date": "2025-02-11",
+      "availableShowTimings": ["10:00 AM", "2:00 PM", "5:00 PM", "8:00 PM"],
+      "totalSeats": 200,
+      "bookedSeats": 78
+    },
+    {
+      "id": 3,
+      "movie": "Logan",
+      "date": "2025-02-12",
+      "availableShowTimings": ["11:00 AM", "2:30 PM", "6:30 PM"],
+      "totalSeats": 120,
+      "bookedSeats": 30
+    },
+    {
+      "id": 4,
+      "movie": "Despicable me 3",
+      "date": "2025-02-13",
+      "availableShowTimings": ["1:00 PM", "4:00 PM", "7:00 PM"],
+      "totalSeats": 180,
+      "bookedSeats": 95
+    },
+    {
+      "id": 5,
+      "movie": "Star Wars",
+      "date": "2025-02-14",
+      "availableShowTimings": ["9:30 AM", "1:30 PM", "5:30 PM", "9:30 PM"],
+      "totalSeats": 160,
+      "bookedSeats": 50
+    },
+    {
+      "id": 6,
+      "movie": "Pitch Perfect 3",
+      "date": "2025-02-15",
+      "availableShowTimings": ["12:00 PM", "3:30 PM", "7:00 PM", "10:30 PM"],
+      "totalSeats": 190,
+      "bookedSeats": 120
+    },
+    {
+      "id": 7,
+      "movie": "Dune: Part Two",
+      "date": "2025-02-16",
+      "availableShowTimings": ["11:00 AM", "2:00 PM", "6:00 PM"],
+      "totalSeats": 170,
+      "bookedSeats": 40
+    }
+  ]
+}
